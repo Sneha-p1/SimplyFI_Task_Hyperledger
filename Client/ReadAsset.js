@@ -6,7 +6,7 @@ userClient.submitTxn(
     "orgchannel",
     "Asset",
     "ReadAsset",
-    "Asset-100",
+    "Asset-200",
    ).then(result => {
     console.log(new TextDecoder().decode(result));
     console.log(" Asset successfully created");
