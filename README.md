@@ -23,7 +23,7 @@ This project is a Hyperledger Fabric blockchain application for managing assets 
 1. Clone the Repository
 
 ```
-git clone https://github.com/Sneha-p1/SimplyFI_Task_Hyperledger
+git clone git@github.com:Sneha-p1/SimplyFI_Task_Hyperledger.git
 cd SimplyFI_Task_Hyperledger
 ```
 2. Install Dependencies
